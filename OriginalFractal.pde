@@ -6,7 +6,7 @@ public void setup() {
 }
 
 public void draw() {
-  background(255);
+  background(199,222,209);
   myFractal(400,400,mouseY);
 }
 
